@@ -5,7 +5,8 @@
 4. 提交修改的文件
 
 # 环境
-+ 配置环境变量GRADLE_USER_HOME，将gradle工作目录换到其他盘
++ 环境变量GRADLE_USER_HOME，将gradle工作目录换到其他盘
++ 环境变量PATH，增加$gradle_home/bin
 
 # 踩过的坑
 
