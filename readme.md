@@ -5,8 +5,10 @@
 4. 提交修改的文件
 
 # 环境
++ gradle init来构建项目
 + 环境变量GRADLE_USER_HOME，将gradle工作目录换到其他盘
 + 环境变量PATH，增加$gradle_home/bin
++ gradle对lombok的支持，https://my.oschina.net/VILLE/blog/2966762
 
 # 踩过的坑
 
